@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "compilerconstruction22",
+			"path": "../../compilerconstruction22"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
+}
